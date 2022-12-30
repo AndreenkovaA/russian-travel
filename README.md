@@ -8,5 +8,5 @@
 
 * ### Создана файловая структура по методологии БЭМ.
 ------
-https://github.com/AndreenkovaA/russian-travel
+[https://github.com/AndreenkovaA/russian-travel](https://andreenkovaa.github.io/russian-travel/)
 
